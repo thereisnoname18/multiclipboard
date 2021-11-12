@@ -28,7 +28,12 @@ A help button is provided for any further help.
   
   NOTES:
   
-  1)You can still use your normal copy and paste(just ctrl+c or ctrl+v) while
+  1)This app is currently functional only in linux OS
+  
+  2)You must log in as superuser or have root permissions to use the app
+  
+  3)You can still use your normal copy and paste(just ctrl+c or ctrl+v) while
   the program is running.
   
-  2)DO NOT use any of the systems default hotkeys(except ctrl+c and ctrl+v) for copy and pasting hotkeys as they may cause some errors.
+  4)DO NOT use any of the systems default hotkeys(except ctrl+c and ctrl+v) for copy and pasting hotkeys as they may cause some errors.
+  

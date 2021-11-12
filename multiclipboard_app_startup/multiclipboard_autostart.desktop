@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=multiple clipboard
+Exec=sudo /usr/bin/multiclipboard  
